@@ -4,4 +4,6 @@
 
 ---
 
-[Encontro 10/04](./Encontro10ABR/) 
+* [Encontro 10/04](./Encontro10ABR/) 
+* [Encontro 17/04](./Encontro17ABR/) 
+    - CodeWars - Exercícios
